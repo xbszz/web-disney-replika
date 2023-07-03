@@ -377,13 +377,6 @@ video{
     padding-bottom: 2rem;
     margin-left: 1.50rem;
 }
-.detail-card{
-    max-width: 20rem;
-    background-color: #fff;
-    margin-left: 3%;
-    margin-top: 27rem;
-    padding-top: 5.5rem;
-}
 .card-header p{
     font-size: 20px;
     margin-left: 1.50rem;
@@ -392,4 +385,11 @@ video{
 .card-desc p{
     margin-left: 1.50rem;
     margin-top: 1rem;
+}
+.detail-card{
+    max-width: 38.9rem;
+    background-color: #fff;
+    margin-left: 3%;
+    margin-top: 27rem;
+    padding-top: 5.5rem;
 }
